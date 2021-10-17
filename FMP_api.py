@@ -5,7 +5,7 @@ This wrapper follows API documentation on the following link:
 https://financialmodelingprep.com/developer/docs
 
 Each subchapter is covered by its own subclass. There are some exceptions,
-mostly for things that are duplicated and are already similary presented in
+mostly for things that are duplicated and are already similary presented
 in other chapters.
 """
 
